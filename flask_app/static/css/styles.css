@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /* background-color: #212529; */
+    background-image: url("/static/img/vaporwave_bg.webp");
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+/* Navbar */
+.aniChatLogo {
+    width: 50px;
+    /* width: 5rem; */
+    /* display: inline-block; */
+}
+
+.navbar {
+    padding: 0.5% 15%;
+    opacity: .8;
+}
+
+
+/*================ Main Menu Section ===================*/
+.mainMenu {
+    height: 45rem;
+    border-radius: 1rem;
+    box-shadow: 25px 25px #eae8bc;
+    /* background-color: rgb(71, 109, 132); */
+    background-color: rgb(113, 149, 171);
+}
+
+.mainMenuSelection {
+    margin-top: 8rem;
+}
+
+.menuSelectionText {
+    font-size: 4rem;
+    /* color: rgb(198, 151, 226); */
+    color: rgb(221, 158, 231);
+}
+.menuSelectionTextJapanese {
+    font-size: 3rem;
+    color: wheat;
+}
+
+/* Main menu images */
+.naruto-icon {
+    width: 20%;
+    border-radius: 50%;
+}
+
+.chat-icon {
+    width: 22%;
+
+    border-radius: 50%
+}
+
+.girl-icon {
+    width: 20%;
+    border-radius: 50%;
+}
+
+
+
+/* ============== Live Stream Channels Icon =============== */
+.naruto-channel {
+    width: 80px;
+}
+
+.animeAll-channel {
+    width: 100px;
+}
+
+.lupin-channel {
+    width: 80px;
+}
+
+.toku-channel {
+    width: 80px;
+}
+
+.luffy-channel {
+    width: 150px;
+}
+
+.yugi-channel {
+    width: 80px;
+}
+
+
+
+/* ============== Anime Section ================*/
+
+.animeSection {
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 25px 25px #BCEAD5;
+}
+
+#animeResult {
+    height: 600px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.animeCard {
+    width: 10.5rem;
+    margin: 0 0.2rem;
+    text-align: center;
+    padding: 0.3rem;
+}
+
+.animeChat {
+    height: 200px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.navbar-brand {
+    font-size: 3rem;
+}
+
+video::-webkit-media-controls-panel {
+    display: none !important;
+    opacity: 1 !important;
+}
+
+
+.messages {
+    height: 320px;
+    overflow: hidden;
+    overflow-y: auto;
+    
+}
