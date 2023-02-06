@@ -67,5 +67,6 @@ Live Stream Channels:
 <img src="https://media.giphy.com/media/691uX8YiaZsjb17Brx/giphy.gif" alt="AniChat search anime feature">
 
  
- <h3>Currently working on:</h3>
- 1. Forum feature where users can post different comments about an anime topic that is on the forum page.
+ <h2>Future feature:</h2>
+ 
+ * Forum feature where users can post a topic and other users could comment on that particular topic.
