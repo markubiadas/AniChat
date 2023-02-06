@@ -25,6 +25,8 @@ Technologies used in this project:
 * HTML5
 * CSS
 * Vanilla Javascript
+
+<hr/>
  
 <h2>Demo</h2>
 
