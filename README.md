@@ -3,6 +3,8 @@
 <h2>What is AniChat?</h2>
 <p>An anime web application features live streaming anime episodes, real-time chat, and an anime search library powered by an API. Fans can watch their favorite shows as they air 24 hours nonstop, while also connecting with other fans through the real-time chat system, anime fans could also use the anime search which they would easily discover shows that is related to their search. This platform is a great way for anime enthusiasts to connect and discuss their favorite shows, share opinions and thoughts, and form a tight-knit community.This anime web application is a great addition for any anime fan, as it offers a one-stop destination for live streaming, chatting, and discovering new shows.</p>
 
+<hr/>
+
 <h3>Features</h3>
 
 Here are some features of AniChat:
