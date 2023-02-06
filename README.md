@@ -37,7 +37,7 @@ Technologies used in this project:
 <p>Registration demo:</p>
 <img src="https://media.giphy.com/media/7Z4xTMiuFHKrNJLb2t/giphy.gif" alt="Registration page">
 
-<h3>AniChat Menu</h3>
+<h3>AniChat Home page / Dashboard page</h3>
 <p>After the user logs in or registers, user will land into the dashboard page. The dashboard page contains a navbar which displays the username of the logged in user, also the dashboard page displays 3 different images which the user can click on to go to a particular section of the site.</p>
 3 choices users can select:
 
