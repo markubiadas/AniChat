@@ -7,7 +7,7 @@
 
 Here are some features of AniChat:
 
-*   Users can choose from 5 different Anime livestream channels.
+* Users can choose from 5 different Anime livestream channels.
 * Users can go to chat page where they can talk to other users who is logged in in the webapp.
 * Users can search an anime and also see if it has a trailer that is available for that anime.
 
