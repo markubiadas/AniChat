@@ -58,6 +58,10 @@ Live Stream Channels:
 * Yu-Gi-Oh Channel
 <img src="https://media.giphy.com/media/xQ3BtoeRSnM9w7tFs0/giphy.gif" alt="AniChat livestream channels demo">
 
+<h2>Chat feature</h2>
+<p>Logged in user has the ability to chat with other logged in users. Users can send messages to other users and receive messages from other users in real time. When a user wants to leave the chatroom, they could press the leave button to go back to the main page.</p>
+<img src="https://media.giphy.com/media/r9iX60HWUwXdYXiafR/giphy.gif" alt="AniChat chat feature demo">
+
  
  <h3>Currently working on:</h3>
  1. Forum feature where users can post different comments about an anime topic that is on the forum page.
