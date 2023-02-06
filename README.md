@@ -13,7 +13,7 @@ Here are some features of AniChat:
 
 <h3>Languages|Frameworks|Libraries</h3>
 
-Tecnologies used in this project:
+Technologies used in this project:
 
 * Python
 * Flask
