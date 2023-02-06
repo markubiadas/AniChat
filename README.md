@@ -62,6 +62,10 @@ Live Stream Channels:
 <p>Logged in user has the ability to chat with other logged in users. Users can send messages to other users and receive messages from other users in real time. When a user wants to leave the chatroom, they could press the leave button to go back to the main page.</p>
 <img src="https://media.giphy.com/media/r9iX60HWUwXdYXiafR/giphy.gif" alt="AniChat chat feature demo">
 
+<h2>Anime Search Feature</h2>
+<p>Logged in users has the ability to go to the search anime section of the web app. Here the user could search an anime title in the search box. From the keywords that the user typed, it will generate results from the API (Jikan API) and display the anime titles that matches the user search. If the title has an available trailer, the card will display a link which the user can click and will direct them external link(Youtube).</p>
+<img src="https://media.giphy.com/media/691uX8YiaZsjb17Brx/giphy.gif" alt="AniChat search anime feature">
+
  
  <h3>Currently working on:</h3>
  1. Forum feature where users can post different comments about an anime topic that is on the forum page.
