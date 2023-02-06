@@ -35,6 +35,7 @@ Technologies used in this project:
 
 <h3>AniChat Menu</h3>
 After the user logs in or registers, user will land in to the dashboard page where they could select from the 3 choices:
+
 * Live stream anime
 * Live Chat
 * Search Anime
