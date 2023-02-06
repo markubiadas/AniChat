@@ -47,7 +47,15 @@ Technologies used in this project:
 <img src="https://media.giphy.com/media/7KTVyWXwuy00JwNe7E/giphy.gif" alt="AniChat dashboard page and selections">
 
 <h2>Anime LiveStream Channels</h2>
-<p></p>
+<p>AniChat has 6 different live stream channels. This webapp utilizes Plutotv's anime live channels as the source for the videos. All these channels runs 24 hours non-stop so that the users of the webapp can binge on these shows.</p>
+Live Stream Channels:
+
+* Naruto Channel
+* The Anime All Day Channel
+* Lupin the III Channel
+* TokuSHOUTsu Channel 
+* One Piece Channel
+* Yu-Gi-Oh Channel
 <img src="https://media.giphy.com/media/xQ3BtoeRSnM9w7tFs0/giphy.gif" alt="AniChat livestream channels demo">
 
  
