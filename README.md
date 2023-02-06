@@ -1,6 +1,6 @@
 <p align="center"><img src="https://socialify.git.ci/markubiadas/AniChat/image?font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F8913%2F8913308.png&name=1&pulls=1&stargazers=1&theme=Light" alt="project-image"></p>
  
-<h3>What is AniChat?</h3>
+<h2>What is AniChat?</h2>
 <p>An anime web application features live streaming anime episodes, real-time chat, and an anime search library powered by an API. Fans can watch their favorite shows as they air 24 hours nonstop, while also connecting with other fans through the real-time chat system, anime fans could also use the anime search which they would easily discover shows that is related to their search. This platform is a great way for anime enthusiasts to connect and discuss their favorite shows, share opinions and thoughts, and form a tight-knit community.This anime web application is a great addition for any anime fan, as it offers a one-stop destination for live streaming, chatting, and discovering new shows.</p>
 
 <h3>Features</h3>
@@ -30,7 +30,7 @@ Technologies used in this project:
 <p>The webapp begins in the login page where users can put their credentials. If the user does not have an account, the user can click the registration link where they will land in the registration page. The project utilizes bCrypt to encrypt the user's password.</p>
 <img src="https://media.giphy.com/media/oIqGiBLs0qaJdoAasR/giphy.gif" alt="Login page">
 
-Registration demo:
+<p>Registration demo:</p>
 <img src="https://media.giphy.com/media/7Z4xTMiuFHKrNJLb2t/giphy.gif" alt="Registration page">
 
  
