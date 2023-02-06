@@ -33,6 +33,16 @@ Technologies used in this project:
 <p>Registration demo:</p>
 <img src="https://media.giphy.com/media/7Z4xTMiuFHKrNJLb2t/giphy.gif" alt="Registration page">
 
+<h3>AniChat Menu</h3>
+<p>After the user logs in or registers, user will land in to the dashboard page where they could select from the 3 choices:</p>
+* Live stream anime
+* Live Chat
+* Search Anime
+
+<h3>Anime LiveStream Channels</h3>
+<p></p>
+<img src="https://media.giphy.com/media/xQ3BtoeRSnM9w7tFs0/giphy.gif" alt="AniChat livestream channels demo">
+
  
  <h3>Currently working on:</h3>
  1. Forum feature where users can post different comments about an anime topic that is on the forum page.
