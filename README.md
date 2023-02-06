@@ -30,14 +30,14 @@ Technologies used in this project:
  
 <h2>Demo</h2>
 
-<h3>Login and Registration</h3>
+<h2>Login and Registration</h2>
 <p>The webapp begins in the login page where users can put their credentials. If the user does not have an account, the user can click the registration link where they will land in the registration page. The project utilizes bCrypt to encrypt the user's password.</p>
 <img src="https://media.giphy.com/media/oIqGiBLs0qaJdoAasR/giphy.gif" alt="Login page">
 
 <p>Registration demo:</p>
 <img src="https://media.giphy.com/media/7Z4xTMiuFHKrNJLb2t/giphy.gif" alt="Registration page">
 
-<h3>AniChat Home page / Dashboard page</h3>
+<h2>AniChat Home page / Dashboard page</h2>
 <p>After the user logs in or registers, user will land into the dashboard page. The dashboard page contains a navbar which displays the username of the logged in user, also the dashboard page displays 3 different images which the user can click on to go to a particular section of the site.</p>
 3 choices users can select:
 
@@ -46,7 +46,7 @@ Technologies used in this project:
 * Search Anime
 <img src="https://media.giphy.com/media/7KTVyWXwuy00JwNe7E/giphy.gif" alt="AniChat dashboard page and selections">
 
-<h3>Anime LiveStream Channels</h3>
+<h2>Anime LiveStream Channels</h2>
 <p></p>
 <img src="https://media.giphy.com/media/xQ3BtoeRSnM9w7tFs0/giphy.gif" alt="AniChat livestream channels demo">
 
