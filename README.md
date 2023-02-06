@@ -34,7 +34,7 @@ Technologies used in this project:
 <img src="https://media.giphy.com/media/7Z4xTMiuFHKrNJLb2t/giphy.gif" alt="Registration page">
 
 <h3>AniChat Menu</h3>
-After the user logs in or registers, user will land in to the dashboard page where they could select from the 3 choices:
+<p>After the user logs in or registers, user will land in to the dashboard page where they could select from the 3 choices:</p>
 
 * Live stream anime
 * Live Chat
