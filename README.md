@@ -12,8 +12,17 @@ Here are some features of AniChat:
 * Users can search an anime and also see if it has a trailer that is available for that anime.
 
 <h3>Languages|Frameworks|Libraries</h3>
+
 Tecnologies used in this project:
-* 
+
+* Python
+* Flask
+* MySQL
+* bCrypt
+* Bootstrap
+* HTML5
+* CSS
+* Vanilla Javascript
  
  
  <h3>Currently working on:</h3>
