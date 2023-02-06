@@ -24,6 +24,12 @@ Technologies used in this project:
 * CSS
 * Vanilla Javascript
  
+<h2>Demo</h2>
+
+<h3>Login and Registration</h3>
+<p>The webapp begins in the login page where users can put their credentials. If the user does not have an account, the user can click the registration link where they will land in the registration page. The project utilizes bCrypt to encrypt the user's password.</p>
+<img src="https://media.giphy.com/media/oIqGiBLs0qaJdoAasR/giphy.gif" alt="Login page">
+
  
  <h3>Currently working on:</h3>
  1. Forum feature where users can post different comments about an anime topic that is on the forum page.
